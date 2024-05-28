@@ -1,0 +1,80 @@
+.login_Page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 98dvh;
+    background-image: url("./photo.jpg");
+}
+
+.login_details{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid #faedeb;
+}
+
+.login_details form{
+    display: flex;
+    flex-direction: column;
+}
+
+.login_details form div{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.login_details form input{
+    width: 300px;
+    height: 25px;
+    border: 2px solid #faedeb;
+    margin-top: 20px;
+    outline: none;
+    padding: 10px;
+}
+
+
+
+
+
+.Register_Page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 98dvh;
+    background-image: url("./photo.jpg");
+   
+}
+
+.Register_details{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid #faedeb;
+}
+
+.Register_details form{
+    display: flex;
+    flex-direction: column;
+}
+
+.Register_details form div{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.Register_details form input{
+    width: 300px;
+    height: 25px;
+    border: 2px solid #faedeb;
+    margin-top: 20px;
+    outline: none;
+    padding: 10px;
+}
